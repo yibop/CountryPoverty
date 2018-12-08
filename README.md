@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/yibop/CountryPoverty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our task is to estimate a country’s poverty rate based on several economic, social, and geographical factors such as total GDP, level of research,  annual growth rate, percentage of arable land and many more. With access to a comprehensive set of data found on the UN website featuring human activities and a geographic dataset found on Kaggle,  we are able to integrate geography with societal  factors to identify possible causes of poverty. In particular, we will attempt to train a machine learning algorithm to predict the poverty rate of a given country, and study from data and results to find which of these attributes, either societal or geographical,  are most strongly correlated with high poverty rates, and identify the critical problems that  the world has to tackle in order to end poverty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
