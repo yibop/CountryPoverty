@@ -19,7 +19,9 @@ We built an implementation of ID3 that accepted continuous attributes from scrat
 
 ## Contact Information
 Thomas Yang
+
 thomasyang2019@u.northwestern.edu
 
 Yibo Pan
+
 yibopan2021@u.northwestern.edu
