@@ -11,7 +11,8 @@ We will be using three main algorithms in this projects, which are decision tree
 
 We built an implementation of ID3 that accepted continuous attributes from scratch (see repository). If an attribute is discrete, we calculate the entropy based on the entropy gain classifying into each value. If an attribute is continuous, we calculate a “best split” value. After repeated trials, and trying to predict multiple markers of economic prosperity (poverty rate, annual gdp growth, consumption), we found that the decision tree that resulted in the highest test accuracy was one that predicted a country’s poverty rate relative to the rest of the world based on 7 geographical and climate attributes: ['Precipitation', 'Climate', 'Arable ', 'Population', 'Area sq mi', 'Pop Density per sq mi', 'CoastlineLength']. The decision tree shown below was part of a set of 100 trials that achieved on average 70% accuracy when trained on 75% and tested on 25% of the dataset. Other decision trees that tried to predict the annual growth rate and consumption resulted in at best 60% accuracy. We will focus on the experiment that produced the above tree in our analysis section. 
 
-Click Here for a detailed report. https://yibop.github.io/CountryPoverty/Final_Report.pdf
+Click Here for a detailed report. 
+https://yibop.github.io/CountryPoverty/Final_Report.pdf
 
 ## Contact Information
 Thomas Yang
